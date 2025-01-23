@@ -56,10 +56,3 @@ Displays all added habits with their weekly progress.
 Allows users to input a habit name and target.
 
 ---
-
-## Future Enhancements
-
-1. **Notifications**: Remind users to update their progress.
-2. **Long-Term Analytics**: Display habit trends over multiple weeks.
-3. **Cloud Sync**: Allow data synchronization across devices.
-4. **Editing Habits**: Add functionality to update habit details.
